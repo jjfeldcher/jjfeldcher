@@ -1,5 +1,5 @@
 ### Hi there 👋
-You may recognize me as the moderator and mentor from the HackerOne 101 Community.
+You may recognize me as the moderator from the HackerOne 101 Community.
 [Discord](https://discord.com/invite/32ZNZVN)
 Or you may know me from any of my repositories which serve to solve Web Security issues or assist security researchers in fixing bugs. Also from any of my Flipper Zero contributions.
 
